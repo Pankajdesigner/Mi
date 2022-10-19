@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <g id="close_ico" transform="translate(-988 -139)">
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="18.5" cy="18.5" r="18.5" transform="translate(988 139)" fill="#274f60" opacity="0.038"/>
+    <path id="Path_1389" data-name="Path 1389" d="M15.911-2.4a1.193,1.193,0,0,1-1.193,1.193H9.351V4.156a1.193,1.193,0,0,1-2.385,0V-1.211H1.6A1.193,1.193,0,0,1,.406-2.4,1.192,1.192,0,0,1,1.6-3.6H6.966V-8.963a1.193,1.193,0,0,1,1.193-1.193A1.193,1.193,0,0,1,9.351-8.963V-3.6h5.367A1.191,1.191,0,0,1,15.911-2.4Z" transform="translate(999.494 153.894) rotate(45)" fill="#274f60"/>
+  </g>
+</svg>
